@@ -1,2 +1,8 @@
 # graphing-calculator
-A lightweight Graphing Calculator capable of solving complex equations and graphing solutions
+A lightweight Graphing Calculator capable of solving complex equations and graphing their solutions
+
+Purpose: This project was built in Grade 11 to help students of government schools in Lucknow, India, who had limited to no access to the internet, for aiding them in their studies. 
+
+Background: I and my friend Trishir, established another branch of the Bhumi NGO, originally based in Chennai, in my home city of Lucknow to organize different civic engagement campaigns and events towards welfare of the society. As part of Bhumi's ignite program, we went on to create a team of volunteers who could help underprivileged children with their studies and could motivate more and more people towards getting an education. It was during one such event, that I came across a lot of students in grade 9 and 10 who were having difficulties in solving some questions and understanding specific concepts, which could easily be resolved if they could only visualize the equations and what they geometrically meant. I tried to use an online graphing calculator on my phone, and though it helped them then, I knew it wasn't a permanent solution. So, I made this relatively simple, yet powerful graphing calculator that could easily be used on the old school computer to aid in teaching many different mathematical concepts. We received a hearty welcome from the schools and teachers, who later told us how aside from helping students with their studies, this application also inspired & intrigued many about the wide range of applications and strengths of technology. As simple as it might seem today, I'm still most proud of this project.
+
+Input: *As directed
